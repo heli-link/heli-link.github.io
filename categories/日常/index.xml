@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Alpha博客</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Alpha博客</description>
+    <title>日常 on Alpha博客</title>
+    <link>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/</link>
+    <description>Recent content in 日常 on Alpha博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://localhost:1313/post/hello/</guid>
       <description>&lt;p&gt;第一次使用这种框架搭建静态博客&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>震惊</title>
-      <link>http://localhost:1313/post/%E9%9C%87%E6%83%8A/</link>
-      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/%E9%9C%87%E6%83%8A/</guid>
-      <description>&lt;p&gt;分类和标签莫名奇妙就出现了，吓死我了&lt;/p&gt;</description>
     </item>
     
   </channel>

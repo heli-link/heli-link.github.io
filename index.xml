@@ -1,32 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>myblog</title>
+    <title>Alpha博客</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on myblog</description>
+    <description>Recent content on Alpha博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2020 14:36:53 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hhhh</title>
-      <link>http://localhost:1313/post/hhhh/</link>
-      <pubDate>Thu, 09 Jul 2020 14:36:53 +0800</pubDate>
+      <title>关于</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/hhhh/</guid>
-      <description>你好</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>以后在丰富吧，现在没什么好说的</description>
     </item>
     
     <item>
-      <title>Hello</title>
+      <title>Hello-word</title>
       <link>http://localhost:1313/post/hello/</link>
-      <pubDate>Thu, 09 Jul 2020 13:04:38 +0800</pubDate>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/hello/</guid>
-      <description>哈哈哈哈哈哈哈哈哈</description>
+      <description>&lt;p&gt;第一次使用这种框架搭建静态博客&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>震惊</title>
+      <link>http://localhost:1313/post/%E9%9C%87%E6%83%8A/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E9%9C%87%E6%83%8A/</guid>
+      <description>&lt;p&gt;分类和标签莫名奇妙就出现了，吓死我了&lt;/p&gt;</description>
     </item>
     
   </channel>

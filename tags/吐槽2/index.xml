@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Alpha博客</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Alpha博客</description>
+    <title>吐槽2 on Alpha博客</title>
+    <link>http://localhost:1313/tags/%E5%90%90%E6%A7%BD2/</link>
+    <description>Recent content in 吐槽2 on Alpha博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/%E5%90%90%E6%A7%BD2/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello-word</title>
-      <link>http://localhost:1313/post/hello/</link>
-      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/hello/</guid>
-      <description>&lt;p&gt;第一次使用这种框架搭建静态博客&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>震惊</title>

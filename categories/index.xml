@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on myblog</title>
+    <title>Categories on Alpha博客</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on myblog</description>
+    <description>Recent content in Categories on Alpha博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>日不常</title>
+      <link>http://localhost:1313/categories/%E6%97%A5%E4%B8%8D%E5%B8%B8/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%E6%97%A5%E4%B8%8D%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日常</title>
+      <link>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
