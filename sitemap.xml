@@ -23,13 +23,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/my-first-post/</loc>
-    <lastmod>2020-07-08T22:02:51+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
